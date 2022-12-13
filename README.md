@@ -10,7 +10,7 @@ Mode 0 is regular mode moving the ghost around, mode 1 is activated when in mode
 
 the red led is on when mode 1 is, the blue led is on when mode 2 is, the motors vibrate when mode 2 is on as the player is in danger. 
 
-Updated the fusion 360 files for each of the components, I made the shell vaguely ghost shaped with holes for the leds, button, joystick, and usb connection to the ardunio micro, and included both the shell's technical drawing, and the full assembly
+Updated the fusion 360 files for each of the components, I made the shell vaguely ghost shaped with holes for the leds, button, joystick, and usb connection to the ardunio micro, and included both the shell's technical drawing, and the full assembly. The full step file for the entire model can also be found in the repo.
 
 shell technical drawing 
 ![shelltechnicaldrawing](Shell.png)
