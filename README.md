@@ -2,6 +2,8 @@
 
 By Ame Gilham #100741352
 
+1 + 0 + 0 + 7 + 4 + 1 + 3 + 5 + 2 = 23 = odd
+
 Tinkercad sendto link: https://www.tinkercad.com/things/efrmGKucPPk-amazing-bigery-allis/editel?sharecode=3IQfj8LEmA59tB2Qq5PKjtahm03oG64bhwg4aKczm4U
 
 Video link: https://youtu.be/Gt9nFUsRidQ
