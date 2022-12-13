@@ -13,7 +13,7 @@ the red led is on when mode 1 is, the blue led is on when mode 2 is, the motors 
 Updated the fusion 360 files for each of the components, I made the shell vaguely ghost shaped with holes for the leds, button, joystick, and usb connection to the ardunio micro, and included both the shell's technical drawing, and the full assembly
 
 shell technical drawing 
-![shelltechnicaldrawing](shell.png)
+![shelltechnicaldrawing](Shell.png)
 
 full assembly
-![Assembly](assembly.png)
+![Assembly](Assembly.png)
